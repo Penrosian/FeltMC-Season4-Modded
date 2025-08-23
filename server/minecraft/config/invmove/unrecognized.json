@@ -1,0 +1,17 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_429": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "net.minecraft.class_404": true,
+    "dev.tr7zw.trender.gui.client.AbstractConfigScreen$1": true,
+    "net.minecraft.class_458": true,
+    "com.blamejared.controlling.client.NewKeyBindsScreen": true,
+    "dev.isxander.yacl3.gui.YACLScreen": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "loaderCommon.fabric.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen": true,
+    "eu.midnightdust.core.screen.MidnightConfigOverviewScreen": true
+  },
+  "hideBackground": {}
+}
