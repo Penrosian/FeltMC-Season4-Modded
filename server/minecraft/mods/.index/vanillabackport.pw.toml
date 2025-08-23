@@ -1,0 +1,16 @@
+filename = 'vanillabackport-fabric-1.20.1-1.1.4.3.jar'
+name = 'Vanilla Backport: Chase the Skies, The Garden Awakens'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b96926957ce043e912751522257ed2b9749df031853a5b7839f8995f20fc2405100728a10cb5c64ceae1ced2d9462ab1147bcb5eedb037257411c373df5574e1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6xwxDTgf/versions/c7BpYvUI/vanillabackport-fabric-1.20.1-1.1.4.3.jar'
+
+[update.modrinth]
+mod-id = '6xwxDTgf'
+version = 'c7BpYvUI'

@@ -1,0 +1,16 @@
+filename = 'addonslib-fabric-1.20.1-1.5.jar'
+name = 'AddonsLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8285af8b1c35265cc98b8962ac67dff831eeb21345699ab4bd2127902a346dbf2c6be89655acab056469d520575d927de6f611ed7ab9b6aeb8580502c4b1aa63'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cl5ec0Qm/versions/QEJEiF12/addonslib-fabric-1.20.1-1.5.jar'
+
+[update.modrinth]
+mod-id = 'cl5ec0Qm'
+version = 'QEJEiF12'

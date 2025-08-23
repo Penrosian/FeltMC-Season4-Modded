@@ -1,0 +1,16 @@
+filename = 'yesstevemodel-fabric-1.20-2.4.1-release.jar'
+name = 'Yes Steve Model'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '278f4d1d5f0ca33323b587a6b3e3be9bedbd3b26e46503ff9d2747a3b38656da1c1e0ddef979f2ed7c93035a02755973dac8d292b04536c76054d0f692f3243b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/86xjpqqS/versions/65oFvzwY/yesstevemodel-fabric-1.20-2.4.1-release.jar'
+
+[update.modrinth]
+mod-id = '86xjpqqS'
+version = '65oFvzwY'

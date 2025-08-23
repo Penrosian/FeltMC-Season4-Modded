@@ -1,0 +1,16 @@
+filename = 'mss-1.2.7-1.20.jar'
+name = "MSS - Moog's Soaring Structures"
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1697cd6b937a5b59b0cb1d5206c03ce6e8ff94098cf2e53c9deec7b6146b197fec6e8ed2f47647f01d877e7c3de8211c150d78c5b0bbaffff2849ad1bd1a1070'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RJCLIx7k/versions/orJQCr9i/mss-1.2.7-1.20.jar'
+
+[update.modrinth]
+mod-id = 'RJCLIx7k'
+version = 'orJQCr9i'

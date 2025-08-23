@@ -1,0 +1,16 @@
+filename = 'everycomp-1.20-2.9.0-fabric.jar'
+name = 'Every Compat (Wood Good)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '495e350efcf294c29aa71c60b43027cb3ae6f2d6366fbb17d64fda99b125419e96110b9e3c5bc9301f6d2d9114cfce0ede06caa60c58b3c7d251c6698d637da0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eiktJyw1/versions/Ke0rugJQ/everycomp-1.20-2.9.0-fabric.jar'
+
+[update.modrinth]
+mod-id = 'eiktJyw1'
+version = 'Ke0rugJQ'
