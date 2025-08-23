@@ -1,0 +1,63 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-08-23 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-08-23 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-08-23 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-08-23 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-23 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "create_ltab:root": {
+    "criteria": {
+      "Tick": "2025-08-23 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-08-23 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2025-08-23 03:01:42 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-08-23 03:01:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-08-23 03:01:42 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
