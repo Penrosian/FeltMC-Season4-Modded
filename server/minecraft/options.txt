@@ -138,7 +138,6 @@ key_create.keyinfo.ponder:key.keyboard.w
 key_key.deeperdarker.boost:key.keyboard.b
 key_key.deeperdarker.transmit:key.keyboard.v
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.firstperson.toggle:key.keyboard.f6
 key_key.jetpack.toggle_active.description:key.keyboard.g
 key_key.jetpack.toggle_hover.description:key.keyboard.h
 key_keybind.invmove.toggleMove:key.keyboard.unknown
@@ -197,9 +196,6 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
-key_zume.zoom:key.keyboard.unknown
-key_zume.zoom_in:key.keyboard.equal
-key_zume.zoom_out:key.keyboard.minus
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o

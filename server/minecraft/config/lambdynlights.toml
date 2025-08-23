@@ -20,6 +20,55 @@ mode = "fancy"
 	firefly = true
 	# Enables dynamic lighting of Guardian's lasers. This also can be toggled off by disabling Guardian dynamic lighting.
 	guardian_laser = true
+	block_entities = true
 
-[light_sources.settings.entities.minecraft]
-	glow_item_frame = false
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				villager = true
+				zombie = true
+				spider = true
+				creeper = true
+				skeleton = true
+				item = true
+				witch = true
+				painting = true
+				enderman = true
+				bat = true
+				cow = true
+				pig = true
+				armor_stand = true
+				glow_squid = true
+				iron_golem = true
+				axolotl = true
+				squid = true
+				chicken = true
+				zombie_villager = true
+				cod = true
+				salmon = true
+				tropical_fish = true
+				sheep = true
+				arrow = true
+				warden = true
+				experience_orb = true
+				wither = true
+				wither_skull = true
+				illusioner = true
+
+			[light_sources.settings.entities.naturalist]
+				bluejay = true
+				bear = true
+				snake = true
+				finch = true
+				lizard = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.meadow]
+				wooly_sheep = true
+
