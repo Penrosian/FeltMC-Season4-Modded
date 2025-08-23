@@ -58,6 +58,15 @@ mode = "fancy"
 				wither = true
 				wither_skull = true
 				illusioner = true
+				slime = true
+				vindicator = true
+				wolf = true
+				fox = true
+				wandering_trader = true
+				pillager = true
+				ravager = true
+				phantom = true
+				potion = true
 
 			[light_sources.settings.entities.naturalist]
 				bluejay = true
@@ -65,10 +74,20 @@ mode = "fancy"
 				snake = true
 				finch = true
 				lizard = true
+				firefly = true
+				butterfly = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
 
 			[light_sources.settings.entities.meadow]
 				wooly_sheep = true
+
+			[light_sources.settings.entities.pointblank]
+				javelin_rocket = true
+				at4_rocket = true
+				smaw_rocket = true
+				grenade40mm = true
+				grenade = true
+				grenade20mm = true
 

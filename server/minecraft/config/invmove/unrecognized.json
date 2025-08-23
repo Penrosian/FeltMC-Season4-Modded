@@ -11,7 +11,15 @@
     "dev.isxander.yacl3.gui.YACLScreen": true,
     "com.terraformersmc.modmenu.gui.ModsScreen": true,
     "loaderCommon.fabric.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen": true,
-    "eu.midnightdust.core.screen.MidnightConfigOverviewScreen": true
+    "eu.midnightdust.core.screen.MidnightConfigOverviewScreen": true,
+    "net.minecraft.class_407": true,
+    "xaero.map.gui.GuiMap": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.vicmatskiv.pointblank.client.gui.AttachmentManagerScreen": true
   },
-  "hideBackground": {}
+  "hideBackground": {
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.vicmatskiv.pointblank.client.gui.AttachmentManagerScreen": true
+  }
 }

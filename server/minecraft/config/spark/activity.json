@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Penrosian",
+      "uniqueId": "0d96e137-1120-3350-bccb-504ade26be09"
+    },
+    "time": 1755984051625,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "/home/penrosian/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/FeltMC-Season4-Modded-Client/minecraft/config/spark/heap-2025-08-23_17.20.27.hprof"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Penrosian",
+      "uniqueId": "0d96e137-1120-3350-bccb-504ade26be09"
+    },
+    "time": 1755983976444,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VACyoC5RZ9nD"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Penrosian",
+      "uniqueId": "0d96e137-1120-3350-bccb-504ade26be09"
+    },
+    "time": 1755983878026,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "/home/penrosian/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/FeltMC-Season4-Modded-Client/minecraft/config/spark/profile-2025-08-23_17.17.58.sparkprofile"
+    }
+  }
+]
